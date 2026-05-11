@@ -1,11 +1,5 @@
 # YouPorn Bulk Video Downloader
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=N8pdls_Tguo" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-youporn-videos.jpg" width="700px">
-</a>
-
 👉 Get it Here: https://serp.ly/youporn-bulk-video-downloader
 
 ## Bulk Download YouPorn Videos Faster
